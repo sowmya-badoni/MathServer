@@ -166,7 +166,7 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![WhatsApp Image 2024-04-27 at 10 43 13 AM](https://github.com/sowmya-badoni/MathServer/assets/152136324/c6a6cff2-f735-4bb6-86f5-71b3f77e6be1)
+![SOWMYA BADONI (212223230011)](https://github.com/sowmya-badoni/MathServer/assets/152136324/ab0b0d0f-39fa-4af6-aa35-d507263dc154)
 
 
 
